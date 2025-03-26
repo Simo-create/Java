@@ -1,0 +1,3 @@
+Aceasta este o lini1 în fișier.
+Aceasta este o linia a 2-a în fișier.
+Scrierea este completă!
